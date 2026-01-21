@@ -12,3 +12,8 @@ python/.venv/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+php/vendor/
+
+**/__pycache__/
+*.pyc
